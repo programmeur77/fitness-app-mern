@@ -4,3 +4,7 @@ backend/package-lock.json
 
 # Node
 backend/node_modules
+
+# Backend folder
+backend/server.http
+backend/.env
