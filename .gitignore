@@ -1,2 +1,6 @@
 # Config files
 .prettierrc
+backend/package-lock.json
+
+# Node
+backend/node_modules
