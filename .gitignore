@@ -8,3 +8,6 @@ backend/node_modules
 # Backend folder
 backend/server.http
 backend/.env
+
+# Frontend files
+frontend/fitness-app/package-lock.json
